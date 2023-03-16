@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/githubartpage/static/css/main.675c025b.css",
+    "main.js": "/githubartpage/static/js/main.e500154a.js",
+    "static/js/787.c1108b10.chunk.js": "/githubartpage/static/js/787.c1108b10.chunk.js",
+    "static/media/main.PNG": "/githubartpage/static/media/main.1777651c1b08a97ee872.PNG",
+    "static/media/logo.svg": "/githubartpage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/githubartpage/index.html",
+    "main.675c025b.css.map": "/githubartpage/static/css/main.675c025b.css.map",
+    "main.e500154a.js.map": "/githubartpage/static/js/main.e500154a.js.map",
+    "787.c1108b10.chunk.js.map": "/githubartpage/static/js/787.c1108b10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.675c025b.css",
+    "static/js/main.e500154a.js"
+  ]
+}
